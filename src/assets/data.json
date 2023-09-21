@@ -1,0 +1,14 @@
+
+
+
+{
+  "projects": [
+    {
+      "date": "14/07/2023",
+      "title": "PORTFOLIO",
+      "description": "This is the sample description about the project That i created a portfolio website of mine where i show all my skills and project. You can know more about me by my portfolio",
+      "url": "https://soumya-nayak-portfolio-react.netlify.app/",
+      "imgSrc": "https://soumya-nayak-portfolio-react.netlify.app/static/media/logo.ce2ccead14d04590b656.png"
+    }
+  ]
+}
