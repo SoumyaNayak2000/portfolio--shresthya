@@ -23,13 +23,13 @@ const Footer = () => {
         <h2>Social Media</h2>
 
         <article>
-          <a href="https://www.linkedin.com/in/nayak-soumya-ranjan" target={"blank"}>
+          <a href="https://www.linkedin.com/in/shresthya-senapati-51811428b/" target={"blank"}>
             <AiFillLinkedin />
           </a>
-          <a href="https://www.instagram.com/soumya_nayak.raju" target={"blank"}>
+          <a href="#" target={"blank"}>
             <AiFillInstagram />
           </a>
-          <a href="https://github.com/SoumyaNayak2000" target={"blank"}>
+          <a href="#" target={"blank"}>
             <AiFillGithub />
           </a>
         </article>
